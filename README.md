@@ -1,2 +1,2 @@
 # exercicioTomate
-Exercício 1 do curso de OpenCV
+Exercício 2 do curso de OpenCV
